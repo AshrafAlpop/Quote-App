@@ -1,0 +1,29 @@
+/* تنسيق الـ div */
+div {
+    text-align: center;
+}
+
+/* تنسيق عنوان h1 */
+h1 {
+    font-size: 80px;
+    font-family: Impact, sans-serif;
+}
+
+/* تنسيق الفقرات */
+p {
+    font-size: 35px;
+}
+
+/* تنسيق الزر */
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    cursor: pointer; /* تغيير المؤشر عند المرور فوق الزر */
+}
+
+/* تأثير الـ hover عند المرور على الزر */
+button:hover {
+    background-color: green;
+}
